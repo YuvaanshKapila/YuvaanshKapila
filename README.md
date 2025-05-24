@@ -55,13 +55,5 @@
 
 ---
 
-## 📈 GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yuvaansh&theme=github-compact)
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/yuvaansh/yuvaansh/output/github-contribution-grid-snake.svg)
-
 
 ⭐️ Thanks for visiting! Let’s build something awesome together ✨
