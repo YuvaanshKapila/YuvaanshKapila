@@ -55,18 +55,13 @@
 
 ---
 
-### ⚡ Recent GitHub Activity:
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yuvaansh&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</p>
+## 📈 GitHub Activity
 
----
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yuvaansh&theme=github-compact)
 
-### 🐍 Contribution Snake:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yuvaansh/yuvaansh/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
+## 🐍 Contribution Snake
 
----
+![Snake animation](https://raw.githubusercontent.com/yuvaansh/yuvaansh/output/github-contribution-grid-snake.svg)
+
 
 ⭐️ Thanks for visiting! Let’s build something awesome together ✨
