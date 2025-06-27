@@ -11,7 +11,7 @@
   </a>
 </p>
 
----
+--- 
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://yuvaanshkapila.framer.website/)
 - 📝 I regularly write articles on [Medium](https://medium.com/@kapilayuvaansh)
