@@ -2,12 +2,12 @@
 <h3 align="center">Aspiring CS/Finance/Business student (still figuring it out 🚀)</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yuvaansh&label=Profile%20views&color=0e75b6&style=flat" alt="yuvaansh" />
+  <img src="https://komarev.com/ghpvc/?username=YuvaanshKapila&label=Profile%20views&color=0e75b6&style=flat" alt="YuvaanshKapila" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yuvaansh&theme=onestar&margin-w=15" alt="yuvaansh trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=YuvaanshKapila&theme=onestar&margin-w=15" alt="YuvaanshKapila trophies" />
   </a>
 </p>
 
@@ -37,7 +37,6 @@
 
 ### 🛠️ Languages & Tools:
 <p>
-  <!-- Add any relevant icons -->
   <img src="https://skillicons.dev/icons?i=cpp,cs,python,java,html,css,js,ts,nodejs,react,nextjs,express,django,flask,mysql,mongodb,figma,blender,unity,unreal,vscode,github,git,linux,aws,gcp,arduino,matlab" />
 </p>
 
@@ -45,15 +44,14 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvaansh&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvaansh&layout=compact&hide_progress=true&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YuvaanshKapila&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuvaanshKapila&layout=compact&hide_progress=true&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvaansh&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuvaanshKapila&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
-
 
 ⭐️ Thanks for visiting! Let’s build something awesome together ✨
