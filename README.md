@@ -11,12 +11,12 @@
   </a>
 </p>
 
---- 
+---
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://yuvaanshkapila.framer.website/)
 - 📝 I regularly write articles on [Medium](https://medium.com/@kapilayuvaansh)
 - 💬 Ask me about **TensorFlow, Front-end Design, or just say hi!**
-- 📫 Reach me at **yuvaanshkapilawork@gmail.com**
+- 📫 Reach me at **yuvaanshkapila@yahoo.com**
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1z9fgAhgVdND9Z29R7pYVC-Z_DbPAznY7/view)
 
 ---
